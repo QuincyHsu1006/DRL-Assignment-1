@@ -127,7 +127,7 @@ def get_state(obs, action=None):
 
 
 
-EPSILON = 0.07
+EPSILON = 0.1
 def get_action(obs):
 
     # TODO: Train your own agent
